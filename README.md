@@ -14,4 +14,7 @@ npm install
 
 启动main.js 文件即可
 
-
+配置文件
+wallet.txt   放钱包私钥
+proxy.txt    放代理ip 格式：ip:端口:账号:密码
+代理和钱包数量必须一样。我懒得改了只能使用代理运行
