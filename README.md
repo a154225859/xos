@@ -3,7 +3,15 @@
 
 邀请连接：X.ink/393TUP
 
+功能
+自动签到
+
 环境
 node v20.12.2
+
+加载需要的包
+npm install
+
+启动main.js 文件即可
 
 
